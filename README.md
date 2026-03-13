@@ -1,76 +1,107 @@
-<h1 align="center">Привет, меня зовут [Ваше имя] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
-<h3 align="center">[Ваша профессия] из [ваш город/страна] 🇷🇺</h3>
+<h1 align="center">Привет, я Роман Матвеев <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+<h3 align="center">Senior Fullstack Developer с 16-летним опытом из Хабаровска 🇷🇺</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C93F7&center=true&vCenter=true&width=435&lines=%D0%AF+%D0%BB%D1%8E%D0%B1%D0%BB%D1%8E+%D0%BA%D0%BE%D0%B4%D0%B8%D1%82%D1%8C+%F0%9F%92%BB;%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%8E+%D0%BA%D1%80%D1%83%D1%82%D1%8B%D0%B5+%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B+%F0%9F%9A%80;%D0%92%D1%81%D0%B5%D0%B3%D0%B4%D0%B0+%D1%83%D1%87%D1%83%D1%81%D1%8C+%D0%BD%D0%BE%D0%B2%D0%BE%D0%BC%D1%83+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C93F7&center=true&vCenter=true&width=435&lines=Fullstack+Developer;16+%D0%BB%D0%B5%D1%82+%D0%BE%D0%BF%D1%8B%D1%82%D0%B0+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8;PHP+%7C+Python+%7C+Java+%7C+JavaScript;Laravel+%7C+Symfony+%7C+NestJS+%7C+React" alt="Typing SVG" />
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Немного обо мне
 
-<table>
-  <tr>
-    <td>
-      <ul>
-        <li>🔭 Сейчас работаю над <b>[название проекта]</b></li>
-        <li>🌱 Изучаю <b>машинное обучение</b> 🧠</li>
-        <li>👯 Ищу сотрудничество над <b>Open Source проектами</b></li>
-        <li>💬 Спросите меня о <b>Python, JavaScript и веб-разработке</b></li>
-        <li>📫 Как связаться: <b>[email protected]</b></li>
-        <li>⚡ Факт обо мне: <b>Могу решить кубик Рубика за 2 минуты 🧩</b></li>
-      </ul>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=[ваш-username]&show_icons=true&theme=radical&hide_border=true" width="400"/>
-    </td>
-  </tr>
-</table>
+### 🛠 Технологический стек
 
-### 🛠 Мой технологический стек
+#### **Backend**
+<p align="left">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+</p>
 
-<details>
-<summary>Нажмите, чтобы развернуть</summary>
-<br>
+#### **Frontend**
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
-**Backend:**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+#### **Базы данных и очереди**
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
+</p>
 
-**Frontend:**
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+#### **DevOps & Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker_Swarm-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white"/>
+</p>
 
-**Базы данных:**
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Инструменты:**
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</details>
-
-### 📊 Статистика активности
+### 📊 Статистика GitHub
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[ваш-username]&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Promiteus&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Promiteus&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=[ваш-username]&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Promiteus&theme=radical&hide_border=true"/>
 </div>
 
+### 🏆 Достижения и трофеи
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Promiteus&theme=radical&no-frame=true&row=2&column=4"/>
+</div>
 
+### 🔥 Ключевые проекты
+
+| Проект | Описание | Технологии |
+|--------|----------|------------|
+| [Strelka Chat](https://strelkachat.ru) | Веб-приложение для реальных знакомств | Nest.js, Next.js, PostgreSQL, Redis, Docker |
+| [ЮС-АВТО](https://usautopro.ru) | Система электронного документооборота для логистики | PHP/Laravel, PostgreSQL, Docker, Sphinx |
+| [MateFlowers](https://mateflowers.ru) | Интернет-магазин цветов и подарков | Laravel, React, Docker Swarm, RetailCRM |
+| [HyperAuto](https://hyperauto.ru) | Highload интернет-магазин автозапчастей | Symfony, Vue.js, Sphinx Search, Java |
+
+### 📈 Опыт работы с высоконагруженными системами
+
+```text
+Высоконагруженные проекты   16 лет ████████████████████ 100%
+Микросервисная архитектура   ████████████████████░░ 80%
+Оптимизация SQL запросов     ██████████████████████ 100%
+DevOps/Контейнеризация       ██████████████████░░░░ 75%
+Модульное тестирование       ████████████████░░░░░░ 60%
+🎓 Образование
+Дальневосточный государственный университет путей сообщения
+Управления, автоматизации и телекоммуникации
+Специальность: Автоматика, телемеханика и связь (2009)
+
+🌐 Языки
+🇷🇺 Русский — Родной
+
+🇬🇧 Английский — B1 (Средний)
+
+🚗 Опыт вождения
+Права категории B
+
+📫 Как со мной связаться
+<p align="center"> <a href="mailto:dr.romanm87@gmail.com"> <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://t.me/khv_roman"> <img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> </a> <a href="https://github.com/Promiteus"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="tel:+79241071905"> <img src="https://img.shields.io/badge/phone-00C300?style=for-the-badge&logo=whatsapp&logoColor=white" /> </a> </p>
