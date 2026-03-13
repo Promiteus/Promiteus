@@ -110,4 +110,6 @@ DevOps/Контейнеризация       ████████████
 
 <p align="center"> <a href="mailto:dr.romanm87@gmail.com"> <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://t.me/khv_roman"> <img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> </a> <a href="https://github.com/Promiteus"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="tel:+79241071905"> <img src="https://img.shields.io/badge/phone-00C300?style=for-the-badge&logo=whatsapp&logoColor=white" /> </a> </p>
 
-
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Promiteus.Promiteus&left_text=👁️%20Просмотров&right_color=blueviolet" />
+</p>
