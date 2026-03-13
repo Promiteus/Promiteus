@@ -119,4 +119,10 @@ DevOps/Контейнеризация       ████████████
 📱 Телефон: +7 (924) 107-1905
 📧 Email: dr.romanm87@gmail.com
 💬 Telegram: @khv_roman
-📍 Локация: Хабаровск, Россия  
+📍 Локация: Хабаровск, Россия
+
+<div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" /> </div><div align="center"> <img src="https://komarev.com/ghpvc/?username=Promiteus&color=blueviolet&style=flat-square&label=👀+Просмотры+профиля" />
+⭐️ Открыт к предложениям о работе и интересным проектам! ⭐️
+
+</div>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> </p>
