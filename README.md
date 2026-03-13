@@ -103,7 +103,14 @@ DevOps/Контейнеризация       ████████████
 🚗 Опыт вождения
 Права категории B
 
-📫 Как со мной связаться
-<p align="center">
-<a href="mailto:dr.romanm87@gmail.com"> <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://t.me/khv_roman"> <img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> </a> <a href="https://github.com/Promiteus"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="tel:+79241071905"> <img src="https://img.shields.io/badge/phone-00C300?style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
-</p>
+💡 Услуги и компетенции
+✔️ Разработка серверной части для веб, нативных и мобильных приложений
+✔️ Создание приложений с нуля по ТЗ
+✔️ Проектирование архитектуры приложений и БД
+✔️ Оптимизация производительности и рефакторинг
+✔️ Интеграция с оборудованием (USB, RS232, RS485)
+✔️ Аудит кода и техническая экспертиза
+✔️ Контейнеризация и DevOps
+✔️ Модульное и интеграционное тестирование
+✔️ Перенос проектов на другие сервера
+✔️ Технические консультации  
