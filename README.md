@@ -1,4 +1,4 @@
-<h1 align="center">Привет, я Роман Матвеев <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+<h1 align="center">Здравствуйте, меня зовут Роман Матвеев <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 <h3 align="center">Senior Fullstack Developer с 16-летним опытом из Хабаровска 🇷🇺</h3>
 
 <p align="center">
