@@ -67,10 +67,15 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Promiteus&theme=radical&hide_border=true"/>
 </div>
 
-### 🏆 Достижения и трофеи
+### 🏆 Статистика достижений
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Promiteus&theme=radical&no-frame=true&row=2&column=4"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Promiteus&show_icons=true&theme=radical&hide_border=true&count_private=true" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Promiteus&theme=radical&hide_border=true" width="400"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Promiteus&theme=react-dark&hide_border=true" width="800"/>
 </div>
 
 ### 🔥 Ключевые проекты
