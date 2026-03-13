@@ -1,5 +1,4 @@
-<h1 align="center">Здравствуйте, меня зовут Роман Матвеев <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
-<h3 align="center">Senior Fullstack Developer с 16-летним опытом из Хабаровска 🇷🇺</h3>
+<h1 align="center">Senior Fullstack Developer с 2009 года 🇷🇺</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C93F7&center=true&vCenter=true&width=435&lines=Fullstack+Developer;16+%D0%BB%D0%B5%D1%82+%D0%BE%D0%BF%D1%8B%D1%82%D0%B0+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8;PHP+%7C+Python+%7C+Java+%7C+JavaScript;Laravel+%7C+Symfony+%7C+NestJS+%7C+React" alt="Typing SVG" />
