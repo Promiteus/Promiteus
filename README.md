@@ -56,27 +56,6 @@
   <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white"/>
 </p>
 
-### 📊 Статистика GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Promiteus&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Promiteus&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Promiteus&theme=radical&hide_border=true"/>
-</div>
-
-### 🏆 Статистика достижений
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Promiteus&show_icons=true&theme=radical&hide_border=true&count_private=true" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Promiteus&theme=radical&hide_border=true" width="400"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Promiteus&theme=react-dark&hide_border=true" width="800"/>
-</div>
 
 ### 🔥 Ключевые проекты
 
