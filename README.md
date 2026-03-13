@@ -11,29 +11,66 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Немного обо мне...
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Немного обо мне
 
-```python
-class AboutMe:
-    def __init__(self):
-        self.name = "[Ваше имя]"
-        self.role = "[Ваша должность]"
-        self.location = "[Ваш город]"
-        self.code = {
-            'backend': ['Python', 'Node.js', 'Java'],
-            'frontend': ['React', 'Vue.js', 'HTML/CSS'],
-            'database': ['PostgreSQL', 'MongoDB', 'MySQL'],
-            'tools': ['Git', 'Docker', 'AWS'],
-            'misc': ['English', 'Team Leadership']
-        }
-        self.current_focus = "Изучаю машинное обучение 🧠"
-        self.fun_fact = "Я могу решить кубик Рубика за 2 минуты 🧩"
-    
-    def say_hi(self):
-        print("Спасибо, что заглянули! Давайте создавать что-то удивительное вместе! 🚀")
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🔭 Сейчас работаю над <b>[название проекта]</b></li>
+        <li>🌱 Изучаю <b>машинное обучение</b> 🧠</li>
+        <li>👯 Ищу сотрудничество над <b>Open Source проектами</b></li>
+        <li>💬 Спросите меня о <b>Python, JavaScript и веб-разработке</b></li>
+        <li>📫 Как связаться: <b>[email protected]</b></li>
+        <li>⚡ Факт обо мне: <b>Могу решить кубик Рубика за 2 минуты 🧩</b></li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=[ваш-username]&show_icons=true&theme=radical&hide_border=true" width="400"/>
+    </td>
+  </tr>
+</table>
 
-me = AboutMe()
-me.say_hi()
+### 🛠 Мой технологический стек
 
-    
+<details>
+<summary>Нажмите, чтобы развернуть</summary>
+<br>
+
+**Backend:**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+**Frontend:**
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Базы данных:**
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Инструменты:**
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</details>
+
+### 📊 Статистика активности
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[ваш-username]&theme=radical&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=[ваш-username]&theme=radical&no-frame=true&row=1&column=6" />
+</div>
+
+
 
