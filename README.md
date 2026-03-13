@@ -34,7 +34,6 @@ class AboutMe:
 
 me = AboutMe()
 me.say_hi()
-```  
 
-💻 Что я использую в работе
-<p align="center"> <img src="https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=2bbc8a"/> <img src="https://img.shields.io/badge/Editor-VS_Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=2bbc8a"/> <img src="https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=2bbc8a"/> </p><p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[ваш-username]&layout=compact&theme=vision-friendly-dark" /> </p>
+    
+
